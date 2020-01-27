@@ -1,4 +1,4 @@
-#[markdown基本语法](https://www.cnblogs.com/nickchen121/p/10821946.html)
+﻿#[markdown基本语法](https://www.cnblogs.com/nickchen121/p/10821946.html)
 ### 一、标题
 <br># 一级标题</br>                                                                
 <br>## 二级标题</br>
@@ -137,5 +137,9 @@ name | age | sex
 :-:|:-|-:
 tony|20|男
 lucy|18|女
+
+第二行也可以长下面这样
+|----|----|
+中间是四个减号
 
 以上是我搜索到的常用的Markdown语法，欢迎各位补充。
